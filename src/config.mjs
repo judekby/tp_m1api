@@ -6,7 +6,7 @@ export default {
   development: {
     type: 'development',
     port: 3000,
-    mongodb: process.env.mongo
+    mongodb: 'mongodb+srv://judek9392:%3CBelieve81726354%40@cluster0.ujuty2g.mongodb.net/ecole'
   },
   production: {
     type: 'production',
